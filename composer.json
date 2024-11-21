@@ -1,0 +1,17 @@
+{
+	"name": "bsik/responsive-block-dimensions",
+	"description": "Add responsive controls to block dimensions (margin and padding).",
+	"license": "GPL-3.0-or-later",
+	"authors": [
+		{
+			"name": "Brian Siklinski",
+			"email": "brian@bsik.net"
+		}
+	],
+	"minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"RESPONSIVE_BLOCK_DIMENSIONS\\": "inc/"
+		}
+	}
+}
